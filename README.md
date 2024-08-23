@@ -1,2 +1,2 @@
 # dio-java-basico
-Repositório destinado aos primeiros exercícios da DIO na linguagem Java
+Repositório destinado aos primeiros exemplos da DIO na linguagem Java
