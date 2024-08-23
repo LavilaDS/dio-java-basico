@@ -1,4 +1,4 @@
-public class OperadoresUnáriosJava {
+public class OperadoresUnarios {
     public static void main(String[] Args) throws Exception {
         // Operadores Unários
         int numero = 5;
